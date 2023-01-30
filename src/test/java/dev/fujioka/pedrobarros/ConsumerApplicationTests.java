@@ -1,4 +1,4 @@
-package dev.fujioka.java.avancado.web;
+package dev.fujioka.pedrobarros;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

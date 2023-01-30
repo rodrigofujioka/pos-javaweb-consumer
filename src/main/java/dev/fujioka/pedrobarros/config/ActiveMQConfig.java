@@ -1,4 +1,4 @@
-package dev.fujioka.java.avancado.web.config;
+package dev.fujioka.pedrobarros.config;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.beans.factory.annotation.Value;

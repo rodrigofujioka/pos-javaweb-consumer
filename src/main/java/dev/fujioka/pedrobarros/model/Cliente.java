@@ -1,4 +1,4 @@
-package dev.fujioka.java.avancado.web.model;
+package dev.fujioka.pedrobarros.model;
 
 
 import lombok.Getter;
@@ -8,12 +8,12 @@ import java.io.Serializable;
 
 @Getter
 @Setter
-public class Aluno implements Serializable {
+public class Cliente implements Serializable {
 
     private Integer id;
 
     private String nome;
 
-    private String matricula;
+    private String cpf;
 
 }
